@@ -1,0 +1,7 @@
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\theNailGame\bin\Debug\theNailGame.exe.config
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\theNailGame\bin\Debug\theNailGame.exe
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\theNailGame\bin\Debug\theNailGame.pdb
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\theNailGame\obj\Debug\theNailGame.csproj.AssemblyReference.cache
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\theNailGame\obj\Debug\theNailGame.csproj.CoreCompileInputs.cache
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\theNailGame\obj\Debug\theNailGame.exe
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\theNailGame\obj\Debug\theNailGame.pdb
