@@ -1,0 +1,7 @@
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\credit\bin\Debug\credit.exe.config
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\credit\bin\Debug\credit.exe
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\credit\bin\Debug\credit.pdb
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\credit\obj\Debug\credit.csproj.AssemblyReference.cache
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\credit\obj\Debug\credit.csproj.CoreCompileInputs.cache
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\credit\obj\Debug\credit.exe
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\credit\obj\Debug\credit.pdb
