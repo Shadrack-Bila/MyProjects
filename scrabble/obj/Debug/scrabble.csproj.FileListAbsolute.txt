@@ -1,0 +1,7 @@
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\scrabble\bin\Debug\scrabble.exe.config
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\scrabble\bin\Debug\scrabble.exe
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\scrabble\bin\Debug\scrabble.pdb
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\scrabble\obj\Debug\scrabble.csproj.AssemblyReference.cache
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\scrabble\obj\Debug\scrabble.csproj.CoreCompileInputs.cache
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\scrabble\obj\Debug\scrabble.exe
+C:\Users\shadrack\Desktop\My personal projects[C.Sharp]\scrabble\obj\Debug\scrabble.pdb
